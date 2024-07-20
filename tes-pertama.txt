@@ -1,3 +1,3 @@
 Ini adalah salah satu contoh file text biasa untuk menguji file dari repo latihan-github
 
-file ini menjadi saksi bisu dari perjalanan seorang programmer
+file ini menjadi saksi dari perjalanan seorang programmer
